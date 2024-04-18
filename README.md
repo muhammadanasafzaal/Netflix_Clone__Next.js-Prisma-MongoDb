@@ -33,6 +33,18 @@ NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
 
+
+### Migrate Collections to your MongoDb Database
+
+``` shell
+npx prisma db push
+```
+
+
+### Setup Demo Data for Db i.e. movies
+
+`` Insert movies data from movies.json to your MongoDb movies collection ``
+
 ### Start the app
 
 ```shell
