@@ -43,7 +43,7 @@ npx prisma db push
 
 ### Setup Demo Data for Db i.e. movies
 
-`` Insert movies data from movies.json to your MongoDb movies collection ``
+Insert movies data from movies.json to your MongoDb movies collection
 
 ### Start the app
 
